@@ -26,7 +26,7 @@ int main () {
 
     media = (nota1+nota2+nota3)/3;
     printf("MEDIA: %.2f \n", media);
-    printf("turno do aluno : %c \n\n", turno);
+    printf("turno do/a aluno : %c \n\n", turno);
     
     if (turno == 'N')
     {
